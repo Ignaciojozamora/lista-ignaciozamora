@@ -1,0 +1,19 @@
+.aprobado{
+    color: green;
+}
+
+.libre{
+    color: black;
+}
+
+.reprobado{
+    color: red;
+}
+
+.recuperatorio{
+    color: blue;
+}
+
+.promocion{
+    color: darkmagenta;
+}
